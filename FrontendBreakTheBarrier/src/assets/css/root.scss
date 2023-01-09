@@ -1,0 +1,47 @@
+:root {
+    /* height */
+    --nav-height: 70px;
+    --nav-height-sm: 60px;
+
+    /* named colors */
+    --purple: rgb(123, 31, 162);
+    --violet: rgb(129, 88, 201);
+    --pink: rgb(218, 102, 141);
+    --green: #43BA96;
+    --dark-blue: #0E1218;
+
+    /* padding */
+    --pd-container: 60px;
+    --pd-container-tab: 30px;
+    --pd-container-sm: 16px;
+
+    /* break points */
+    --break-point-desktop: 1400px;
+    --break-point-desktop-sm: 1200px;
+    --break-point-tab-lg: 992px;
+    --break-point-tab: 850px;
+    --break-point-tab-sm: 768px;
+    --break-point-mobile-lg: 650px;
+    --break-point-mobile: 576px;
+    --break-point-mobile-sm: 430px;
+
+    /*radius */
+    --br-0: 6px;
+    --br-1: 10px;
+    --br-2: 20px;
+    --br-3: 30px;
+    --br-4: 40px;
+
+    /* z-index */
+    --z-cursor: 400;
+    --z-sidebar: 300;
+    --z-navbar: 200;
+
+    /* ease functions */
+    --e-bounce: cubic-bezier(0.175, 0.885, 0.32, 1.2);
+    --e-ease: ease;
+
+    /* animation delay */
+    --d-pageLoader: 2s;
+    --d-logo: 0.5s;
+}
